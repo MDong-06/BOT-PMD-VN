@@ -1,0 +1,51 @@
+{
+    "total": [
+        {
+            "id": "100079051638922",
+            "count": 69
+        },
+        {
+            "id": "100000664756191",
+            "count": 14
+        },
+        {
+            "id": "100079091494907",
+            "count": 208
+        }
+    ],
+    "week": [
+        {
+            "id": "100079051638922",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100000664756191",
+            "count": 0,
+            "name": "ʚNguyễn Mạnh Hùngɞ"
+        },
+        {
+            "id": "100079091494907",
+            "count": 0,
+            "name": "Hương Giang Nguyễn"
+        }
+    ],
+    "day": [
+        {
+            "id": "100079051638922",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100000664756191",
+            "count": 0,
+            "name": "ʚNguyễn Mạnh Hùngɞ"
+        },
+        {
+            "id": "100079091494907",
+            "count": 0,
+            "name": "Hương Giang Nguyễn"
+        }
+    ],
+    "time": 6
+}

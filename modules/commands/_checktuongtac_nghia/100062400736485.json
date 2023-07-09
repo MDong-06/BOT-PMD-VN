@@ -1,0 +1,65 @@
+{
+    "total": [
+        {
+            "id": "100062400736485",
+            "count": 2
+        },
+        {
+            "id": "100078977904201",
+            "count": 2
+        },
+        {
+            "id": "100084063467178",
+            "count": 2
+        },
+        {
+            "id": "100079051638922",
+            "count": 4
+        }
+    ],
+    "week": [
+        {
+            "id": "100062400736485",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100078977904201",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084063467178",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100079051638922",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "100062400736485",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100078977904201",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100084063467178",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100079051638922",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        }
+    ],
+    "time": 6
+}

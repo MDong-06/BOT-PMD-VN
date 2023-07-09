@@ -1,0 +1,37 @@
+{
+    "total": [
+        {
+            "id": "100004221366339",
+            "count": 8
+        },
+        {
+            "id": "100079091494907",
+            "count": 50
+        }
+    ],
+    "week": [
+        {
+            "id": "100004221366339",
+            "count": 0,
+            "name": "Nguyễn Thanh Sang"
+        },
+        {
+            "id": "100079091494907",
+            "count": 0,
+            "name": "Hương Giang Nguyễn"
+        }
+    ],
+    "day": [
+        {
+            "id": "100004221366339",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100079091494907",
+            "count": 0,
+            "name": "Hương Giang Nguyễn"
+        }
+    ],
+    "time": 6
+}

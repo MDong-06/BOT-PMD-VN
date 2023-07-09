@@ -1,0 +1,37 @@
+{
+    "total": [
+        {
+            "id": "100069224798585",
+            "count": 2
+        },
+        {
+            "id": "100074234618211",
+            "count": 1
+        }
+    ],
+    "week": [
+        {
+            "id": "100069224798585",
+            "count": 0,
+            "name": "Vuong Thi Thanh Lan"
+        },
+        {
+            "id": "100074234618211",
+            "count": 0,
+            "name": "Ng Quynh Anh"
+        }
+    ],
+    "day": [
+        {
+            "id": "100069224798585",
+            "count": 0,
+            "name": "Vuong Thi Thanh Lan"
+        },
+        {
+            "id": "100074234618211",
+            "count": 0,
+            "name": "Ng Quynh Anh"
+        }
+    ],
+    "time": 6
+}
