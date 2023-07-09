@@ -6,7 +6,7 @@ const { readdirSync, readFileSync, writeFileSync, existsSync, unlinkSync, rm } =
 const { join, resolve } = require("path");
 const { execSync } = require('child_process');
 const logger = require("./utils/log.js");
-const login = require("fca-horizon-remake"); 
+const login = require("fca-dongdz"); 
 const axios = require("axios");
 const listPackage = JSON.parse(readFileSync('./package.json')).dependencies;
 const listbuiltinModules = require("module").builtinModules;
@@ -341,9 +341,9 @@ function onBot({ models: botModel }) {
                             throw new Error(global.getText('mirai', 'cantOnload', event.config.name, JSON.stringify(error)), 'error');
                         }
                         global.client.events.set(event.config.name, event);
-                        logger.loader(global.getText('mirai', 'successLoadModule', event.config.name));
+                        //logger.loader(global.getText('mirai', 'successLoadModule', event.config.name));
                     } catch (error) {
-                        logger.loader(global.getText('mirai', 'failLoadModule', event.config.name, error), 'error');
+                        //logger.loader(global.getText('mirai', 'failLoadModule', event.config.name, error), 'error');
                     }
                 }
             }()
