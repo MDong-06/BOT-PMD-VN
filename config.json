@@ -1,0 +1,241 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "commandDisabled": [
+        "goibot.js"
+    ],
+    "eventDisabled": [],
+    "UPTIME": "",
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "BOT Test",
+    "PREFIX": "#",
+    "ADMINBOT": [
+        "100068096370437"
+    ],
+    "NDH": [
+        "100068096370437"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Linux; Android 8.1.0; CPH1912) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36"
+    },
+    "version": "1.2.14",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 200000
+    },
+    "checktt": {
+        "maxColumn": 300
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 20000,
+        "rewardExp": 1000
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "gif": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "instagram": {
+        "APIKEY": "81b0466275mshb5265735e50299cp1b01c5jsn3e7f93112fd3"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 55
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "29be078b8f5239a1202742869f92c25955bdcab3"
+    },
+    "shortlink": {
+        "bitlyAPI": "150ef1bc3af86500796d645c86f56766e4802566"
+    },
+    "soundcloud": {
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "weather": {
+        "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "log": {
+        "enable": true
+    },
+    "fbcover": {
+        "APIKEY": "tdunguwu"
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 120
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "sing": {
+        "API_KEY": "mzkFree_XNPP4LYOG9H8VY83GHG",
+        "YOUTUBE_API": "AIzaSyCKLLk55EafnP___8fMuA0KCaUVW8EPScY",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "tiktok": {
+        "API_KEY": "mzk_OE0O09YDSZ5185OAN70",
+        "key": "eSA3Nik3"
+    },
+    "ghép": {
+        "APIKEY": "nhatdepzaivl"
+    },
+    "audio": {
+        "YOUTUBE_API": "AIzaSyA3ExvIgr8Flog0ZXOR5bHGNfRyu9FTn4k"
+    },
+    "fbdl": {
+        "API_KEY": "mzk_7DHDGE2AHTNTVRBVUEZ"
+    },
+    "fbvd": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "igdlvideo": {
+        "API_KEY": "mzkFree_722124509AC10"
+    },
+    "ins": {
+        "APIKEY": ""
+    },
+    "mail10p": {
+        "APIKEY": "chinhdz"
+    },
+    "sim": {
+        "APIKEY": ""
+    },
+    "sing2": {
+        "API_KEY": "mzk_S342O83362Z7V853AG0",
+        "YOUTUBE_API": "AIzaSyDPLOND-mAcuv9-j1ayNDdfFh0dwjl6H1U"
+    },
+    "song": {
+        "API_KEY": "mzk_O69SOEDT68Z0D9D3XF6"
+    },
+    "tlt": {
+        "API_KEY": "chdz"
+    },
+    "video2": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "videotiktok": {
+        "APIKEY": "a012e05802msh4ce48bff26d5c0ap151d85jsn4edde7f89de0"
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "youtube": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "ytb2mp3": {
+        "YOUTUBE_API": "AIzaSyA25_Ne0gD1DeciKIM8PzZBLvQ0MgGRlr0"
+    },
+    "anhvip": {
+        "cooldownTime": 1200000
+    },
+    "sing3": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "tikvideo": {
+        "API_KEY": "7b9418aaabmshfa7be9ccf6c6daap14adf9jsnd93a9e086fe3",
+        "APIKEY": "7b9418aaabmshfa7be9ccf6c6daap14adf9jsnd93a9e086fe3"
+    },
+    "adminOnly": false,
+    "snautica": {
+        "APIKEY": ""
+    },
+    "cavev2": {
+        "cooldownTime": ""
+    },
+    "tikvd": {
+        "API_KEY": "mzk_F27EL6RMTIV1Q5C963T"
+    },
+    "ndhOnly": false,
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "sing4": {
+        "YOUTUBE_API": "AIzaSyBKgc6dhJ7kn4cSxqVOckkGFL0h4cryxKQ"
+    },
+    "loto": {
+        "maxPlayers": 5,
+        "getDelay": 5
+    },
+    "cave2": {
+        "cooldownTime": 1200000
+    },
+    "dxev2": {
+        "key": "1st"
+    },
+    "lq": {
+        "fb_token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "dxev4": {
+        "key": "1st"
+    },
+    "lixi2": {
+        "cooldownTime": 1200000
+    },
+    "ytb": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "cnamebot": {
+        "status": false
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "tikinfo": {
+        "key": "ClkIv52I"
+    },
+    "nganhang": {
+        "key": "DUBFREE"
+    }
+}
